@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Cite the Depth-Routing Attention paper (KDD 2026)."
+title: "Depth-Routing Attention: Sparse Attention with Learned Depth Budgets"
+year: 2026
+references:
+  - type: conference-paper
+    title: "Depth-Routing Attention: Sparse Attention with Learned Depth Budgets"
+    conference: "KDD 2026"
+    year: 2026
+    identifiers:
+      - type: other
+        value: "arXiv:2605.09111"
